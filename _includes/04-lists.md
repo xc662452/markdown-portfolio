@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Tea
+2. Mango
+3. blueburry
+
+* Pizza
+* cake
